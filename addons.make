@@ -1,0 +1,4 @@
+ofxGui
+ofxLibRealSense2
+ofxNetwork
+ofxOpenCv
